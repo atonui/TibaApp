@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TibaApp</string>
+<!--    slide titles-->
+    <string name="first_slide_title">Corona Pandemic</string>
+    <string name="second_slide_title">Take Precautions</string>
+    <string name="third_slide_title">Wear a Mask</string>
+<!--    slide description-->
+    <string name="first_slide_description">Lorem ipsum dolor sit amet</string>
+    <string name="second_slide_description">Lorem ipsum dolor sit amet</string>
+    <string name="third_slide_description">Lorem ipsum dolor sit amet</string>
+<!--    buttons-->
+    <string name="btn_next_slide">Next</string>
+    <string name="btn_skip_slide">Skip</string>
+    <string name="start">Start</string>
+</resources>
